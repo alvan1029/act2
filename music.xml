@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song id="1">
+        <songTitle>Blame It On Baby</songTitle>
+        <artist>Dababy</artist>
+        <albums>
+            <album>Blame It On Baby (2020)</album>
+            <album>Kirk (2019)</album>
+            <album>Baby On Baby (2019)</album>
+        </albums>
+        <debutYear>2020</debutYear>
+    </song>
+    <song id="2">
+        <songTitle>good kid, m.A.A.d city</songTitle>
+        <artist>Kendrick Lamar</artist>
+        <albums>
+            <album>good kid, m.A.A.d city (2012)</album>
+            <album>To Pimp a Butterfly (2015)</album>
+            <album>Damn (2017)</album>
+        </albums>
+        <debutYear>2012</debutYear>
+    </song>
+    <song id="3">
+        <songTitle>The Melodic Blue</songTitle>
+        <artist>Baby Keem</artist>
+        <albums>
+            <album>The Melodic Blue (2022)</album>
+        </albums>
+        <debutYear>2022</debutYear>
+    </song>
+    <song id="4">
+        <songTitle>American Dream</songTitle>
+        <artist>21 Savage</artist>
+        <albums>
+            <album>American Dream (2024)</album>
+            <album>Her Loss (2022)</album>
+            <album>Issa Album (2017)</album>
+        </albums>
+        <debutYear>2024</debutYear>
+    </song>
+    <song id="5">
+        <songTitle>Slime and B</songTitle>
+        <artist>Young Thug</artist>
+        <albums>
+            <album>Slime and B (2020)</album>
+            <album>So Much Fun (2019)</album>
+            <album>Slime Season 3 (2016)</album>
+        </albums>
+        <debutYear>2020</debutYear>
+    </song>
+</music>
